@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="QL_Cafe/jlayer1.0.1/JLayer1.0.1/src"/>
+	<classpathentry kind="src" path="QL_Cafe/jlayer1.0.1/JLayer1.0.1/srctest"/>
+	<classpathentry kind="src" path="QL_Cafe/src"/>
+	<classpathentry kind="lib" path="QL_Cafe/dist/lib/DateChooser.jar"/>
+	<classpathentry kind="lib" path="QL_Cafe/dist/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="QL_Cafe/dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="QL_Cafe/dist/QL_Cafe.jar"/>
+	<classpathentry kind="lib" path="QL_Cafe/JdateChooser/DateChooser.jar"/>
+	<classpathentry kind="lib" path="QL_Cafe/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/bt Java/QL_Cafe/libs/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="output" path="QL_Cafe/build/classes"/>
+</classpath>
